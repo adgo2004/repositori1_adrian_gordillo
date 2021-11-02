@@ -1,1 +1,6 @@
-Fitxer  cognom_nom que el copiarem a github
+Fitxer  cognom_nom que el copiarem a github.
+Afegeixo línia desde el repositori local.
+
+
+
+
